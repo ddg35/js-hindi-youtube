@@ -12,3 +12,11 @@ console.log(2 + "2" + "2")
 console.log(2 + 2 + "2")
 
 console.log("2" + "2" + 2)
+
+
+const myFunction = function()
+
+{console.log ("hello sir")}
+
+console.log (typeof myFunction)
+
